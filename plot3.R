@@ -19,8 +19,8 @@
 ## one-minute sampling rate over a period of almost 4 years. Different electrical 
 ## quantities and some sub-metering values are available. 
 
-## Preconditions:
-##      1.  Ensure data.table, dplyr and tidyr packages are installed
+## download zipped data from internet link provided in assignment (and listed above) and 
+## unzip
 
 if (!file.exists("ElectricPowerConsumption.zip")) {
         fileUrl <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"

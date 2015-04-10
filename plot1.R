@@ -19,9 +19,6 @@
 ## one-minute sampling rate over a period of almost 4 years. Different electrical 
 ## quantities and some sub-metering values are available. 
 
-## Preconditions:
-##      1.  Ensure data.table, dplyr and tidyr packages are installed
-
 ## download zipped data from internet link provided in assignment (and listed above) and 
 ## unzip
 
